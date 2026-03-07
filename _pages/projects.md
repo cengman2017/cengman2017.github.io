@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My publically-available research work.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Fast Numerical Methods]
 horizontal: false
 ---
 
