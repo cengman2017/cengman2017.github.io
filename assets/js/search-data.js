@@ -56,16 +56,6 @@ ninja.data = [{
           description: "How can we represent relationships between boundary functions in elliptic systems?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "teachings-math-2552-introduction-to-differnetial-equations",
-          title: 'Math 2552 Introduction to Differnetial Equations',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals.html";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning.html";
             },},{
         id: 'social-cv',
         title: 'CV',
