@@ -5,6 +5,7 @@ cv_pdf: /assets/pdf/Christian Engman CV.pdf # path to your CV PDF file
 email: cengman3@gatech.edu # your email address
 linkedin_username: christian-engman
 github_username: cengman2017
+orcid_id: 0009-0006-1549-9918
 
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
