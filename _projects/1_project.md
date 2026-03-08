@@ -8,4 +8,4 @@ category: Fast Numerical Methods
 related_publications: false
 ---
 
-This work makes up my undergraduate thesis submitted in December 2025, which cam be downloaded here: [Thesis](/assets/pdf/Christian_Engman_Undergraduate_Thesis.pdf). Work is ongoing, specifically on the application of this method to domain decomposition methods, so updates and publication are hopefully forthcoming.
+This work makes up my undergraduate thesis submitted in December 2025, which can be downloaded here: [Thesis](/assets/pdf/Christian_Engman_Undergraduate_Thesis.pdf). Work is ongoing, specifically on the application of this method to domain decomposition methods, so updates and publication are hopefully forthcoming.
