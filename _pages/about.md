@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I'm Christian Engman, a recent graduate from Georgia Tech, and a post-bacc intern in the physics division at Los Alamos National Laboratory.
+subtitle: I'm Christian Engman, a recent graduate from Georgia Tech, a post-bacc intern in the physics division at Los Alamos National Laboratory, and an Incoming PhD Student at the University of Michigan.
 
 profile:
   align: right
@@ -26,6 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I will be attending the University of Michigan as a PhD Student in Computer Science and Engineering to research the applications of AI to engineering and the physical sciences under [JJ Park](https://jjparkcv.github.io/). I hope to collaborate with researchers involved with the Michigan Institute for Computational Discovery and Engineering and with LANL scientists involved in the Michigan-LANL SPARC initiative. 
+
 I received my BS in Mathematics and my BS in Computer Science from Georgia Tech. While there, I worked with [Florian Schäfer](https://f-t-s.github.io/) and [Qi Tang](https://tangqi.github.io/) in the School of Computational Science and Engineering. Additionally, I completed internships at Amazon, Meta, and Los Alamos National Laboratory, was a TA in the School of Math, and was the president of the [Big O Computer Science Theory Club](https://theoryclub.github.io/) and an officer in Club Math.
 
-My research interests lie at the intersection of computation physics, numerical methods, machine learning, and high-performance computing. My past and current research topics include sparse linear algebra, finite element methods, inverse problems, reduced-order models, and machine learning for scientific applications. In the future, I hope to combine classical numerical methods and modern statistical and deep learning techinques to develop rigorous and efficient solvers for PDEs arising in scientific applications. I am currently recruiting for PhD programs in this research area.
+My research interests lie at the intersection of computation physics, numerical methods, machine learning, and high-performance computing. My past and current research topics include sparse linear algebra, finite element methods, inverse problems, reduced-order models, and machine learning for scientific applications. In the future, I hope to combine classical numerical methods and modern statistical and deep learning techinques to develop rigorous and efficient solvers for PDEs and other modelling problems arising in scientific applications.
